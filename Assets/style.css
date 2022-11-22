@@ -1,0 +1,11 @@
+* {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+.icons {
+  height: 10%;
+  width: 10%;
+}
+.container {
+  border-radius: 80px;
+}
