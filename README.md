@@ -38,7 +38,6 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Table of Contents
-## Table of Contents
 1. [ Description. ](#description)
 2. [ Installation. ](#installation)
 3. [ Usage. ](#usage)
@@ -46,7 +45,7 @@ THEN I exit the application, and the HTML is generated
 6. [ Tests. ](#tests)
 7. [ Questions. ](#questions)
 8. [ Resources. ](#resources)
-8. [ Links. ](#links)
+9. [ Links. ](#links)
 
 
 ## Installation
@@ -116,12 +115,9 @@ npm run test
 * Confirm all four test suites pass (see screenshot below). Test suites are located in the test folder and are titled: Employee.test.js, Engineer.test.js, Intern.test.js, and Manager.test.js
 
 ## Questions?
-Want to see more of my work? [Github Link](https://github.com/shd327/Team-Profile-Generator)
+Want to see more of my work? [Github Link](https://github.com/shd327)
 <br/>
 Want to learn more please contact me at shdesai327@gmail.com
-
-## Video
-https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91e962
 
 ## Screenshots
 ![](Assets/html.PNG)
@@ -135,6 +131,9 @@ https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91
 
 ## Resources
 * https://www.npmjs.com/package/inquirer
+* https://nodejs.org/en/
+* https://opensource.org/licenses/MIT
+* https://jestjs.io/
 
 ## Links
 * [Video Link](https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=share_link)
