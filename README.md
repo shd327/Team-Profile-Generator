@@ -137,5 +137,6 @@ https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91
 * https://www.npmjs.com/package/inquirer
 
 ## Links
-* [Video Link]([https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=share_link])
+* [Video Link](https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=share_link)
+* [Github Link](https://github.com/shd327/Team-Profile-Generator)
 
