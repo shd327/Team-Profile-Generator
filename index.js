@@ -11,6 +11,8 @@ const managerArr = []
 const internArr = []
 const engineerArr = []
 const employeeArr = []
+
+
 promptManager()
 
 // build out manager prompt
@@ -46,6 +48,7 @@ function promptManager() {
 
         })
 }
+// build out Intern prompt
 function promptIntern() {
     inqurier.prompt([
         {
@@ -77,7 +80,7 @@ function promptIntern() {
         })
 
 }
-
+// build out Engineer prompt
 function promptEngineer() {
     inqurier.prompt([
         {
@@ -108,7 +111,7 @@ function promptEngineer() {
         })
 
 }
-
+// build out selectRole prompt
 function selectRole() {
     inqurier.prompt([
         {
@@ -141,8 +144,6 @@ function selectRole() {
             }
         })
 }
-
-
 
 
 //  HTML
@@ -217,7 +218,7 @@ function GenerateEngineer(engineerArr) {
     }
 
 }
-
+// Renders HTML with all manager, intern and engineer html
 function renderHTML() {
     htmlCode = `<!DOCTYPE html>
     <html lang="en">
@@ -259,7 +260,7 @@ function renderHTML() {
     return htmlCode;
 }
 
-
+// loop throw the employee html 
 function employeeHTML() {
     var empHTML = "";
     for (let i = 0; i < employeeArr.length; i++) {
@@ -272,8 +273,5 @@ function employeeHTML() {
 
 const init = () => {
 
-    // Use writeFileSync method to use promises instead of a callback function
     fs.writeFileSync('index.html', renderHTML());
 }
-// build main html structure that we will append all the generates too using loop
-// write to file at in
