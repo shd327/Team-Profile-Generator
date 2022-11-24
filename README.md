@@ -45,7 +45,7 @@ THEN I exit the application, and the HTML is generated
 6. [ Tests. ](#tests)
 7. [ Questions. ](#questions)
 8. [ Resources. ](#resources)
-9. [ Links. ](#links)Screenshots
+9. [ Links. ](#links)
 10. [ Screenshots. ](#screenshots)
 
 
