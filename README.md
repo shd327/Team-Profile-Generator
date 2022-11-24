@@ -60,6 +60,7 @@ git clone git@github.com:shd327/Team-Profile-Generator.git
   }
 
 ```
+```
 npm install jest
 ```
 ```
