@@ -85,6 +85,7 @@ Free Use
 ## Tests
 * Ensure jest is installed (npm install jest)
 * In the command line, write:
+* Navigate to the /test directory
 ```
 npm run test
 ```
