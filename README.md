@@ -45,7 +45,8 @@ THEN I exit the application, and the HTML is generated
 6. [ Tests. ](#tests)
 7. [ Questions. ](#questions)
 8. [ Resources. ](#resources)
-9. [ Links. ](#links)
+9. [ Links. ](#links)Screenshots
+10. [ Screenshots. ](#screenshots)
 
 
 ## Installation
@@ -126,8 +127,6 @@ Want to learn more please contact me at shdesai327@gmail.com
 
 ![](Assets/inquirer.PNG)
 
-## Links
-* https://shd327.github.io/Team-Profile/
 
 ## Resources
 * https://www.npmjs.com/package/inquirer
