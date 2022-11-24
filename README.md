@@ -116,15 +116,15 @@ npm run test
 * Confirm all four test suites pass (see screenshot below). Test suites are located in the test folder and are titled: Employee.test.js, Engineer.test.js, Intern.test.js, and Manager.test.js
 
 ## Questions?
-Want to see more of my work? [Github Link](https://github.com/SHD118/Team-Profile)
+Want to see more of my work? [Github Link](https://github.com/shd327/Team-Profile-Generator)
 <br/>
-Want to learn more please contact me at shdesai118@gmail.com
+Want to learn more please contact me at shdesai327@gmail.com
 
 ## Video
 https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91e962
 
 ## Screenshots
-![](Assets/)
+![](Assets/html.PNG)
 
 ![](Assets/test.PNG)
 
