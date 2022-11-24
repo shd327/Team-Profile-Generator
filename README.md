@@ -45,7 +45,9 @@ THEN I exit the application, and the HTML is generated
 4. [ License. ](#license)
 6. [ Tests. ](#tests)
 7. [ Questions. ](#questions)
-7. [ Resources. ](#resources)
+8. [ Resources. ](#resources)
+8. [ Links. ](#links)
+
 
 ## Installation
 * Clone the repository using:
@@ -122,18 +124,18 @@ Want to learn more please contact me at shdesai118@gmail.com
 https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91e962
 
 ## Screenshots
-![](image/)
+![](Assets/)
 
-![](image/)
+![](Assets/test.PNG)
 
-![](image/)
+![](Assets/inquirer.PNG)
 
 ## Links
 * https://shd327.github.io/Team-Profile/
 
-
 ## Resources
 * https://www.npmjs.com/package/inquirer
 
-
+## Links
+* [Video Link](Team-Profile-Generator/Assets/Code_QjWylk0ghV.mp4)
 
