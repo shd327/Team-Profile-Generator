@@ -44,9 +44,10 @@ THEN I exit the application, and the HTML is generated
 4. [ License. ](#license)
 6. [ Tests. ](#tests)
 7. [ Questions. ](#questions)
-8. [ Resources. ](#resources)
-9. [ Links. ](#links)
-10. [ Screenshots. ](#screenshots)
+8. [ Screenshots. ](#screenshots)
+9. [ Resources. ](#resources)
+10. [ Links. ](#links)
+
 
 
 ## Installation
